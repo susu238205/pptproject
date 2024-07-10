@@ -1,2 +1,2 @@
-# pptproject
-Web development foundation project for real world (ppt software company)
+# pttproject
+Web development foundation project for real world (ptt software company)
